@@ -119,7 +119,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=banerjeeanushree7-gif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=banerjeeanushree7-gif&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=banerjeeanushree7-gif&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeeanushree7-gif&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-[![Anushree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=banerjeeanushree7-gif&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Anushree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=banerjeeanushree7-gif&theme=tokyo-night&hide_border=true)](https://github.com/banerjeeanushree7-gif)
 
 </div>
 
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME//output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/banerjeeanushree7-gif/banerjeeanushree7-gif/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -151,14 +151,14 @@
 
 <div align="center">
 
-I'm always interested in connecting with developers, AI/ML enthusiasts and people passionate about technology.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anushree-banerjee-4086b135a)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushree_Banerjee-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anushree-banerjee-4086b135a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/banerjeeanushree7-gif)
 
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning | Keep Building | Keep Innovating 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=banerjeeanushree7-gif&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
 
 </div>
