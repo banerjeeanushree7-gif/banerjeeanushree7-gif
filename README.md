@@ -121,7 +121,7 @@
 
 ![](https://streak-stats.demolab.com/?user=banerjeeanushree7-gif&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeeanushree7-gif&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeeanushree7-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
