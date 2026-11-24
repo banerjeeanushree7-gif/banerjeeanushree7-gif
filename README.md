@@ -20,7 +20,7 @@
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
 - 👁️ Exploring Computer Vision and Image Processing.
 - 🐍 Working with Python, Java, C and PHP.
-- 🌐 Interested in Full-Stack Web Development.
+- 🌐 Interested in Computer Vision, Full-Stack Web Development and Robotics,.
 - 🔬 Passionate about building real-world AI-powered applications.
 - 📚 Always learning, experimenting and improving my skills.
 
